@@ -4,6 +4,8 @@
 
 ## English
 
+**Hammer** is Valve's map editor for Source engine games such as Garry's Mod. It is used to build rooms, walls and floors, place models and lights, add player spawn points, and set up map interactions. [Hammer++](https://ficool2.github.io/HammerPlusPlus-Website/) is a modified version of Hammer with bug fixes and editing improvements.
+
 Control Hammer++ from Codex, Claude, or the terminal. Includes 16 MCP tools for map files, brushes, entities, materials, menus, dialogs, and compilation.
 
 Requires 64-bit Windows, Python 3.10+, and Hammer++ Garry's Mod build 8873.
@@ -35,6 +37,8 @@ Save editor changes with `hammer_save` before editing a VMF file. File edits req
 Use `/` in asset paths. New property values cannot contain double quotes, line breaks, or backslashes.
 
 ## Türkçe
+
+**Hammer**, Garry's Mod gibi Source motorunu kullanan oyunlar için harita hazırlamaya yarayan Valve editörüdür. Oda, duvar ve zemin oluşturmak; model, ışık ve oyuncu başlangıç noktaları yerleştirmek; harita içindeki etkileşimleri ayarlamak için kullanılır. [Hammer++](https://ficool2.github.io/HammerPlusPlus-Website/), hata düzeltmeleri ve düzenleme iyileştirmeleri içeren bir Hammer sürümüdür.
 
 Hammer++'ı Codex, Claude veya terminalden kontrol et. Harita dosyaları, brush, entity, malzeme, menü, diyalog ve derleme işlemleri için 16 MCP aracı içerir.
 
