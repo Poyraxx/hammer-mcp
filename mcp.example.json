@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "hammer": {
+      "command": "python",
+      "args": ["C:/tools/hammer-mcp/server.py"],
+      "env": {"PYTHONUTF8": "1"}
+    }
+  }
+}

@@ -1,0 +1,10 @@
+__pycache__/
+.cache/
+logs/
+tests/data/
+analysis.json
+.hammer-mcp-backups/
+.venv/
+.env
+.mcp.json
+.codex/
