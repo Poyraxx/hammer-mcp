@@ -1,4 +1,4 @@
-# hammer mcp
+# Hammer mcp
 
 [English](#english) | [Türkçe](#türkçe)
 
